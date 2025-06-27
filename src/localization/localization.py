@@ -3,7 +3,7 @@ from src.localization import loc_ua
 import habitTrackerDataBase as sq
 
 def get_loc(lang_code):
-    if lang_code is 'ua':
+    if lang_code == 'ua':
         return loc_ua
     else:
         return loc_eng
