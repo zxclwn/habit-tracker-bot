@@ -32,7 +32,6 @@ async def get_loc_buttons(user_id):
     btn.row(
         InlineKeyboardButton(loc.B_LOC_ENG, callback_data=language.new("en")),
         InlineKeyboardButton(loc.B_LOC_UA, callback_data=language.new("uk")),
-        # InlineKeyboardButton(loc.B_LOC_S, callback_data=language.new("s"))
     )
     btn.row(InlineKeyboardButton(loc.B_CLOSE, callback_data='close'))
     return btn
