@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/python-3.10-orange)
 ![Static Badge](https://img.shields.io/badge/aiogram-2.25.2-blue)
 
-A simple and effective Telegram bot that i created in 2023 to help you build and maintain new habits — right from your chat.
+A simple and effective Telegram bot that I created in 2023 to help you build and maintain new habits — right from your chat.
 
 ---
 
@@ -15,6 +15,7 @@ A simple and effective Telegram bot that i created in 2023 to help you build and
 - 🔁 **Track and mark daily progress with ease**
 - 🛠 **Modify, delete, or reset trackers at any time**
 - 🌐 **Automatically adapts to your Telegram language settings** (EN / UA)
+- 🧩 **Support multiple users with persistent database-backed tracking**
 
 ---
 
@@ -40,8 +41,6 @@ You can create custom habit trackers, mark your daily progress, and visualize ev
 ## 📌 Examples of using bot
 
 A step-by-step visual guide to using the Telegram Habit Tracker Bot.
-
----
 
 ### 🟢 Step 1: Chat with the bot after launch
 
