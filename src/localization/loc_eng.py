@@ -82,6 +82,5 @@ H_LOC_ANSWER = "Language changed ✅"
 
 B_LOC_ENG = "English"
 B_LOC_UA = "Ukrainian"
-B_LOC_RU = "Russian"
 
 H_LOC_MENU = "Choose a language:"
