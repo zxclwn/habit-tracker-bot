@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/python-3.10-orange)
 ![Static Badge](https://img.shields.io/badge/aiogram-2.25.2-blue)
 
-A simple and effective Telegram bot to help you build and maintain new habits — right from your chat.
+A simple and effective Telegram bot that i created in 2023 to help you build and maintain new habits — right from your chat.
 
 ---
 
