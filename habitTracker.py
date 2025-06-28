@@ -14,7 +14,7 @@ from src.callbackdatas import language
 storage = MemoryStorage()
 
 # База
-bot = Bot(token=TOKEN)
+bot = Bot(token=TOKEN) # <-- import your telegram bot token here
 dp = Dispatcher(bot, storage=storage)
 
 # Стан для імені нового трекера
